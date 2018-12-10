@@ -1,2 +1,2 @@
-# phpDemo
-php study
+# weather
+weclome to weather's github
